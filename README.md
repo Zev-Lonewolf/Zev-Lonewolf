@@ -16,9 +16,15 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zev-Lonewolf&theme=react&show_icons=true&hide_border=true&count_private=true&hide_title=true" height="115" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zev-Lonewolf&layout=compact&theme=react&hide_border=true&langs_count=6" height="140" />
+  <a href="https://github.com/Zev-Lonewolf/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Zev-Lonewolf&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=000000" height="160" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Zev-Lonewolf/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zev-Lonewolf&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&border_color=000000" height="150" />
+  </a>
 </p>
 
 ### 🛠️ Tools & IDEs 

@@ -16,11 +16,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zev-Lonewolf&show_icons=true&theme=transparent" alt="Zev-Lonewolf's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zev-Lonewolf&show_icons=true&theme=transparent&border_color=000000" alt="Zev-Lonewolf's GitHub stats" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zev-Lonewolf&layout=compact&theme=transparent" alt="Zev-Lonewolf's Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zev-Lonewolf&layout=compact&theme=transparent&border_color=000000" alt="Zev-Lonewolf's Top Languages" height="150"/>
 </p>
 
 ### 🛠️ Tools & IDEs 

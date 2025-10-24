@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hey! I'm Zev</h3>
 <p align="center">
-  <b>Developer</b>, tech enthusiast, and RPG player — always up for a good idea (or a wild one), and proudly the kind of person who says: “why not? Let’s do it!”<br>
+  <b>Developer</b> and <b>RPG player</b> — focused on creating, exploring, and building on <b>ideas that make life (or work) easier through challenging projects</b>. Always ready for a good idea (or a crazy one) and proudly the kind of person who says: "Why not? Let’s go!"<br>
   My real name is <b>Gleidson Gonzaga</b>, but everyone just calls me <b>Zev</b>.
 </p>
 
@@ -32,20 +32,18 @@
 ### 🛠️ Tools & IDEs 
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Replit](https://img.shields.io/badge/-Replit-FF3C41?style=flat&logo=replit&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### 📦 Frameworks, Libraries & Formats  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
 
 ### 👨‍💻 Languages  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" /></a> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" /></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="Kotlin" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" /></a>
 
 <p align="center">
-  <em>Made with care (and coffee ☕) by a Brazilian who loves to learn — sending you a big hug from here! 🇧🇷</em>
+  <em>If you want to chat, game, or binge some anime, hit me up! — A hug from this dev 🇧🇷<br></em>
+  <em>(More connections on Discord; new links and content coming soon on the website!)</em>
 </p>
